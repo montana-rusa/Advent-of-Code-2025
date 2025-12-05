@@ -3,6 +3,7 @@
 #include <vector>
 using namespace std;
 
+
 vector<string> get_data() {
     fstream file("input.txt");
     vector<string> lines;
